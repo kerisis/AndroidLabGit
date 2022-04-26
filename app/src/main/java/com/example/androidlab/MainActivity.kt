@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //어버버버22221
+        //123
     }
 }
