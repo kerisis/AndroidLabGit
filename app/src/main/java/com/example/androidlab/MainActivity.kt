@@ -8,10 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //어버버버22221
-        //123
-        //456
-        //789
         
-        //3번변경반영
+        //2번꺼다
     }
 }
