@@ -1,4 +1,4 @@
-package com.example.androidlab
+package com.example.androidlab.jw
 
 val data84_jw_1_1 = 10;
 var data84_jw_1_2 = 20;
