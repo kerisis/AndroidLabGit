@@ -1,4 +1,4 @@
-package com.example.androidlab
+package com.example.androidlab.jw
 
 //val data85_jw_1_1 : Int;        //최상위에 선언한 변수, 클레스의 멤버 변수는 선언과 동시에 초기값을 할당 해야됨
 val data85_jw_1_2 = 20;
