@@ -1,4 +1,4 @@
-package com.example.androidlab
+package com.example.androidlab.leece
 
 val ex85_data: Int = 10
 val ex85_data2 = 10
